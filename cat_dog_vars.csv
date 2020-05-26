@@ -20,6 +20,9 @@ f_infant_cats,1,1,1,1,1,1
 f_infant_dogs,1,1,1,1,1,1
 isaac,1,1,1,1,1,1
 child_id,1,1,1,1,1,1
+preg_no,1,1,1,1,1,1
+mother_id,1,1,1,1,1,1
+cohort_id,1,1,1,,1,1
 cats_preg,1,1,1,1,1,1
 cats_quant_preg,,1,1,,1,
 dogs_preg,1,1,1,1,1,1
