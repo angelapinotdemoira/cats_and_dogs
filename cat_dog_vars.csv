@@ -16,7 +16,7 @@ cats_quant_inf2,,1,1,,1,
 cats_quant_inf_cat,,1,1,,1,
 cats_quant_preg,,1,1,,1,
 child_id,1,1,1,1,1,1
-cob_m,,1,1,,1,
+cob_m,,,1,,,
 cohort_id,1,1,1,,1,1
 csection,1,1,1,1,1,
 dogs,1,1,1,1,1,1
@@ -28,6 +28,9 @@ dogs_quant_preg,,1,1,,1,
 early_life_cats,1,1,1,1,1,1
 early_life_dogs,1,1,1,1,1,1
 edu_m_,1,1,1,1,1,1
+ethn1_m,,1,,,,
+ethn2_m,,1,,,,
+ethn3_m,,1,,,1,
 eusilc_income_quintiles,1,1,1,,,1
 f_infant_cats,1,1,1,1,1,1
 f_infant_dogs,1,1,1,1,1,1
