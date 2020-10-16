@@ -32,7 +32,7 @@ cats_quant_preg,,1,1,,1,,1,
 dogs_preg,1,1,1,1,1,1,1,1
 dogs_quant_preg,,1,1,,1,,1,
 allergy_inh_m,1,1,1,,1,1,1,
-allergy_any_m,1,1,1,,1,1,1,1
+allergy_any_m,,1,,,,,,
 asthma_ever_CHICOS,1,1,1,1,1,1,1,1
 pets_preg,1,1,1,1,1,1,1,1
 sens_cat7,,1,,1,1,,1,1
@@ -103,7 +103,7 @@ eusilc_income_quintiles_noNA,1,1,1,,,1,1,1
 cats_preg_noNA,1,1,1,1,1,1,1,1
 dogs_preg_noNA,1,1,1,1,1,1,1,1
 allergy_inh_m_noNA,1,1,1,,1,1,1,
-allergy_any_m_noNA,1,1,1,,1,1,1,1
+allergy_any_m_noNA,1,,1,,1,1,1,1
 asthma_ever_CHICOS_noNA,1,1,1,1,1,1,1,1
 pets_preg_noNA,1,1,1,1,1,1,1,1
 sens_cat7_noNA,,1,,1,1,,1,1
