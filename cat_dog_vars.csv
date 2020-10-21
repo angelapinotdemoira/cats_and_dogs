@@ -82,8 +82,8 @@ pets_quant_inf_cat,,1,1,,1,,,
 pets_quant_inf2,,1,1,,1,,,
 pets_quant_preg,,1,1,,1,,1,
 hhincome_,,,,,1,,,
-wheeze,,,,,,,,1
-eczema,,,,,,,,1
+wheeze,1,1,1,1,1,1,1,1
+eczema,1,1,1,,,1,1,1
 edu_m__noNA,1,1,1,1,1,1,1,1
 cohort_id_noNA,1,1,1,,1,1,1,1
 cob_m_noNA,,,1,,,,,
@@ -134,5 +134,5 @@ dogs_quant_inf_cat_noNA,,1,1,,1,,,
 cats_quant_inf_cat_noNA,,1,1,,1,,,
 pets_quant_inf_cat_noNA,,1,1,,1,,,
 hhincome__noNA,,,,,1,,,
-wheeze_noNA,1,1,1,1,1,1,1,1
-eczema_noNA,1,1,1,,,1,1,1
+wheeze_noNA,,,,,,,,
+eczema_noNA,,,,,,,,
