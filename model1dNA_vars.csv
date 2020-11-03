@@ -2,7 +2,7 @@ Variable,Include
 child_id,1
 edu_m_,1
 age_years,0
-mother_id,0
+mother_id,1
 preg_no,0
 child_no,0
 cohort_id,0
