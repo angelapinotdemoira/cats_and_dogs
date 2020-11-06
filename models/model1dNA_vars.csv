@@ -12,6 +12,7 @@ ethn2_m,1
 ethn3_m,1
 agebirth_m_y,0
 asthma_m,1
+inh_asthm_m,1
 preg_smk,1
 preg_cig,0
 mode_delivery,0
