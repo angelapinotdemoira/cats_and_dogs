@@ -12,7 +12,7 @@ ethn2_m,,,,,,,1,
 ethn3_m,,1,,,1,,,1
 agebirth_m_y,1,1,1,1,1,1,1,1
 asthma_m,1,1,1,1,1,1,1,1
-inh_asthm_m,1,1,1,1,1,1,1,1
+inh_asthm_m,1,1,1,,1,1,1,1
 preg_smk,1,1,1,1,1,1,1,1
 preg_cig,1,1,1,1,1,1,1,1
 mode_delivery,1,1,1,1,1,1,1,1
