@@ -35,12 +35,12 @@ allergy_inh_m,1
 allergy_any_m,0
 inh_asthm_m,0
 asthma_ever_CHICOS,0
-asthma_ever,0
+asthma_ever,1
 pets_preg,0
-sens_cat7,0
+sens_cat7,1
 sens_cat4,0
 sens_dog4,0
-sens_dog7,0
+sens_dog7,1
 f_infant_cats,1
 f_infant_dogs,1
 cats,0
