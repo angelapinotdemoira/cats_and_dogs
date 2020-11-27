@@ -33,7 +33,7 @@ dogs_preg,0
 dogs_quant_preg,0
 allergy_inh_m,1
 allergy_any_m,0
-inh_asthm_m,0
+inh_asthm_m,1
 asthma_ever_CHICOS,0
 asthma_ever,1
 pets_preg,0
@@ -48,7 +48,7 @@ dogs,0
 early_life_cats,0
 early_life_dogs,0
 infant_dogs_cats,0
-infant_dogs_cats2,1
+infant_dogs_cats2,0
 preg_dogs_cats2,0
 preg_dogs_cats,0
 dogs_quant_preg_cat,0
@@ -86,3 +86,6 @@ pets_quant_preg,0
 hhincome_,0
 wheeze,1
 eczema,1
+FEV1,1
+FVC,1
+FEV1FVC,1
