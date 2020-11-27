@@ -1,5 +1,6 @@
 ,dnbc,inma,ninfea,repro_pl,raine,moba,sws,genr
 child_id,1,1,1,1,1,1,1,1
+outcome,1,1,1,1,1,1,1,1
 edu_m_,1,1,1,1,1,1,1,1
 age_years,1,1,1,1,1,1,1,1
 mother_id,1,1,1,1,1,1,1,1
@@ -86,3 +87,6 @@ pets_quant_preg,,1,1,,1,,1,
 hhincome_,,,,,1,,,
 wheeze,1,1,1,1,1,1,1,1
 eczema,1,1,1,,,1,1,1
+FEV1,,1,,,1,,1,1
+FVC,,1,,,1,,1,1
+FEV1FVC,,1,,,1,,1,1
