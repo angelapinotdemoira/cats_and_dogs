@@ -1,5 +1,6 @@
 Variable,Include
 child_id,1
+outcome,0
 edu_m_,1
 age_years,0
 mother_id,1
@@ -33,6 +34,7 @@ dogs_preg,1
 dogs_quant_preg,0
 allergy_inh_m,1
 allergy_any_m,0
+inh_asthm_m,1
 asthma_ever_CHICOS,0
 asthma_ever,1
 pets_preg,0
@@ -85,3 +87,6 @@ pets_quant_preg,0
 hhincome_,0
 wheeze,1
 eczema,1
+FEV1,1
+FVC,1
+FEV1FVC,1
