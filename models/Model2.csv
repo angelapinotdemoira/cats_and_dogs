@@ -16,7 +16,7 @@ asthma_m,1
 preg_smk,1
 preg_cig,0
 mode_delivery,0
-asthma_bf,0
+asthma_bf,1
 sex,1
 plurality,0
 ga_lmp,0
