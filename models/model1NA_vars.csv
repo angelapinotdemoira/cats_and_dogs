@@ -25,7 +25,7 @@ birth_weight,0
 sibling_pos,1
 breastfed_excl,0
 breastfed_any,0
-breastfed_ever,0
+breastfed_ever,1
 eusilc_income,0
 eusilc_income_quintiles,0
 cats_preg,0
@@ -63,13 +63,13 @@ medall,1
 agebirth_m_y_c,1
 agebirth_m_y2,1
 breastfedcat,0
-csection,0
+csection,1
 ga_c,0
 ga,0
 ga2,0
-birth_weight_c,0
+birth_weight_c,1
 birth_weight2,0
-log_ga,0
+log_ga,1
 sibling_pos2,1
 famsize_child,0
 famsize_childcat,1
