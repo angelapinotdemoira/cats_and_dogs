@@ -87,9 +87,9 @@ pets_quant_preg,0
 hhincome_,0
 wheeze,1
 eczema,1
-FEV1,1
-FVC,1
-FEV1FVC,1
+FEV1_z_,1
+FVC_z_,1
+FEV1FVC_z_,1
 greenyn300_preg,0	
 green_dist_preg,0	
 green_size_preg,0	
