@@ -28,9 +28,9 @@ breastfed_any,0
 breastfed_ever,1
 eusilc_income,0
 eusilc_income_quintiles,0
-cats_preg,0
+cats_preg,1
 cats_quant_preg,0
-dogs_preg,0
+dogs_preg,1
 dogs_quant_preg,0
 allergy_inh_m,1
 allergy_any_m,0
