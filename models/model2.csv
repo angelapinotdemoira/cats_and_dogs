@@ -42,8 +42,8 @@ sens_cat7,1
 sens_cat4,0
 sens_dog4,0
 sens_dog7,1
-f_infant_cats,1
-f_infant_dogs,1
+f_infant_cats,0
+f_infant_dogs,0
 cats,0
 dogs,0
 early_life_cats,0
