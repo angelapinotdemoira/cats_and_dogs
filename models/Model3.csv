@@ -72,7 +72,7 @@ birth_weight2,0
 log_ga,0
 sibling_pos2,1
 famsize_child,0
-famsize_childcat,0
+famsize_childcat,1
 income,1
 dogs_quant_inf,0
 dogs_quant_inf_cat,0
