@@ -75,9 +75,9 @@ famsize_child,0
 famsize_childcat,1
 income,1
 dogs_quant_inf,0
-dogs_quant_inf_cat,0
+dogs_quant_inf_cat,1
 cats_quant_inf,0
-cats_quant_inf_cat,0
+cats_quant_inf_cat,1
 dogs_quant_inf2,0
 cats_quant_inf2,0
 pets_quant_inf,0
